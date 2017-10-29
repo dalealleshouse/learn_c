@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/src/learn_c/points/main.c
+point.h
+/mnt/c/src/learn_c/points/point.h
+namedPoint.h
+/mnt/c/src/learn_c/points/namedPoint.h
+stdio.h
+-
+
+/mnt/c/src/learn_c/points/namedPoint.c
+namedPoint.h
+/mnt/c/src/learn_c/points/namedPoint.h
+stdlib.h
+-
+
+/mnt/c/src/learn_c/points/namedPoint.h
+
+/mnt/c/src/learn_c/points/point.c
+point.h
+/mnt/c/src/learn_c/points/point.h
+stdlib.h
+-
+math.h
+-
+
+/mnt/c/src/learn_c/points/point.h
+

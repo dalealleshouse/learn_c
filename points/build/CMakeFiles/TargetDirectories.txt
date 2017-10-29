@@ -1,0 +1,3 @@
+/mnt/c/src/learn_c/points/build/CMakeFiles/edit_cache.dir
+/mnt/c/src/learn_c/points/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/src/learn_c/points/build/CMakeFiles/points.dir

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/c/src/learn_c/points",
+  "command": "/usr/bin/clang      -o CMakeFiles/points.dir/main.c.o   -c /mnt/c/src/learn_c/points/main.c",
+  "file": "/mnt/c/src/learn_c/points/main.c"
+},
+{
+  "directory": "/mnt/c/src/learn_c/points",
+  "command": "/usr/bin/clang      -o CMakeFiles/points.dir/point.c.o   -c /mnt/c/src/learn_c/points/point.c",
+  "file": "/mnt/c/src/learn_c/points/point.c"
+}
+]
