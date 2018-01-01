@@ -1,1 +1,0 @@
-/usr/bin/clang     CMakeFiles/points.dir/main.c.o CMakeFiles/points.dir/namedPoint.c.o CMakeFiles/points.dir/point.c.o  -o points -lm 
